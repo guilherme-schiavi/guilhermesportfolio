@@ -1,6 +1,6 @@
 # Guilherme Schiavi's Data Analytics Portfolio
 
-## Corruption x Traffic Violations Analysis
+## 1. Corruption x Traffic Violations Analysis
 
 [Here's the paper!](https://guilherme-schiavi.github.io/corruptiondata/)
 
